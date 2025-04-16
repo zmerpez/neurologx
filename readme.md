@@ -64,6 +64,8 @@ neurologx/
      - Sample Predictions
      - Label Distribution
      - Classifier to Predict Logs
+       
+       [Click to see sample dashboard](https://github.com/zmerpez/neurologx/blob/main/data/dashboard%20%C2%B7%20Streamlit.pdf)
 
 ---
 
